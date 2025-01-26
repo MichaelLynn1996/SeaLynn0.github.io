@@ -5,8 +5,8 @@ site_author: Michael Lynn
 site_description: Michael Lynn's personal site.
 
 # Repository
-repo_name: MichaelLynn1996/michaellynn1996.github.io
-repo_url: https://github.com/MichaelLynn1996/michaellynn1996.github.io
+# repo_name: MichaelLynn1996/michaellynn1996.github.io
+# repo_url: https://github.com/MichaelLynn1996/michaellynn1996.github.io
 
 # Copyright
 copyright: "<a href='https://github.com/MichaelLynn1996/michaellynn1996.github.io'>&copy;  <script>document.write(new Date().getFullYear())</script> Michael Lynn</a>" # 左下角的版权声明
@@ -51,7 +51,7 @@ theme:
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
+      primary: white
       accent: indigo
       toggle:
         icon: material/toggle-switch

@@ -160,7 +160,7 @@ hide:
             <div class="introduce">
                 <p>Hello there(oﾟvﾟ)ノ, Michael here。很高兴认识你！</p>
                 <p>
-                    我是一名普通的计算机技术专业硕士研究生，研究方向可见<a href="../../academic/" title="学术">学术</a>页面。目前正在积极寻找业界的工作机会，主要侧重于音频、音乐和语音的人工智能技术。如果有机会，请随时联系我！了解有关我的更多信息，可以查看我的<a href="https://github.com/MichaelLynn1996" title="GitHub">GitHub</a>，以及<a href="../assets/resume_zh.pdf" title="简历">简历</a>。
+                    我是一名普通的计算机技术专业硕士研究生，研究方向可见<a href="../../academic/" title="学术">学术</a>页面。目前正在从事大模型、智能体和RAG相关的落地工作。如果有机会，请随时联系我！了解有关我的更多信息，可以查看我的<a href="https://github.com/MichaelLynn1996" title="GitHub">GitHub</a>，以及<a href="../assets/resume_zh.pdf" title="简历">简历</a>。
                 </p>
             </div>
         </div>
